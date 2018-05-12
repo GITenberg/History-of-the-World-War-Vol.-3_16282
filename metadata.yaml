@@ -1,0 +1,31 @@
+_repo: History-of-the-World-War-Vol.-3_16282
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Beamish, Richard Joseph
+    birthdate: 1879
+    gutenberg_agent_id: '6609'
+    url: http://www.gutenberg.org/2009/agents/6609
+  - agent_name: March, Francis Andrew
+    birthdate: 1863
+    deathdate: 1928
+    gutenberg_agent_id: '6608'
+    url: http://www.gutenberg.org/2009/agents/6608
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16282'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+title: History of the World War, Vol. 3
+url: http://www.gutenberg.org/ebooks/16282
